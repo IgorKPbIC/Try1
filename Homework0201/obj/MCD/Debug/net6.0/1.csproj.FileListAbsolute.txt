@@ -1,0 +1,30 @@
+C:\Users\Игорь\Pictures\Documents\VisualCode\111\1\bin\MCD\Debug\net6.0\1.exe
+C:\Users\Игорь\Pictures\Documents\VisualCode\111\1\bin\MCD\Debug\net6.0\1.deps.json
+C:\Users\Игорь\Pictures\Documents\VisualCode\111\1\bin\MCD\Debug\net6.0\1.runtimeconfig.json
+C:\Users\Игорь\Pictures\Documents\VisualCode\111\1\bin\MCD\Debug\net6.0\1.dll
+C:\Users\Игорь\Pictures\Documents\VisualCode\111\1\bin\MCD\Debug\net6.0\ref\1.dll
+C:\Users\Игорь\Pictures\Documents\VisualCode\111\1\bin\MCD\Debug\net6.0\1.pdb
+C:\Users\Игорь\Pictures\Documents\VisualCode\111\1\obj\MCD\Debug\net6.0\1.csproj.AssemblyReference.cache
+C:\Users\Игорь\Pictures\Documents\VisualCode\111\1\obj\MCD\Debug\net6.0\1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игорь\Pictures\Documents\VisualCode\111\1\obj\MCD\Debug\net6.0\1.AssemblyInfoInputs.cache
+C:\Users\Игорь\Pictures\Documents\VisualCode\111\1\obj\MCD\Debug\net6.0\1.AssemblyInfo.cs
+C:\Users\Игорь\Pictures\Documents\VisualCode\111\1\obj\MCD\Debug\net6.0\1.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Pictures\Documents\VisualCode\111\1\obj\MCD\Debug\net6.0\1.dll
+C:\Users\Игорь\Pictures\Documents\VisualCode\111\1\obj\MCD\Debug\net6.0\ref\1.dll
+C:\Users\Игорь\Pictures\Documents\VisualCode\111\1\obj\MCD\Debug\net6.0\1.pdb
+C:\Users\Игорь\Pictures\Documents\VisualCode\111\1\obj\MCD\Debug\net6.0\1.genruntimeconfig.cache
+C:\Users\Игорь\Pictures\Documents\VisualCode\Homeworks\Homework 0201\bin\MCD\Debug\net6.0\1.exe
+C:\Users\Игорь\Pictures\Documents\VisualCode\Homeworks\Homework 0201\bin\MCD\Debug\net6.0\1.deps.json
+C:\Users\Игорь\Pictures\Documents\VisualCode\Homeworks\Homework 0201\bin\MCD\Debug\net6.0\1.runtimeconfig.json
+C:\Users\Игорь\Pictures\Documents\VisualCode\Homeworks\Homework 0201\bin\MCD\Debug\net6.0\1.dll
+C:\Users\Игорь\Pictures\Documents\VisualCode\Homeworks\Homework 0201\bin\MCD\Debug\net6.0\ref\1.dll
+C:\Users\Игорь\Pictures\Documents\VisualCode\Homeworks\Homework 0201\bin\MCD\Debug\net6.0\1.pdb
+C:\Users\Игорь\Pictures\Documents\VisualCode\Homeworks\Homework 0201\obj\MCD\Debug\net6.0\1.csproj.AssemblyReference.cache
+C:\Users\Игорь\Pictures\Documents\VisualCode\Homeworks\Homework 0201\obj\MCD\Debug\net6.0\1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игорь\Pictures\Documents\VisualCode\Homeworks\Homework 0201\obj\MCD\Debug\net6.0\1.AssemblyInfoInputs.cache
+C:\Users\Игорь\Pictures\Documents\VisualCode\Homeworks\Homework 0201\obj\MCD\Debug\net6.0\1.AssemblyInfo.cs
+C:\Users\Игорь\Pictures\Documents\VisualCode\Homeworks\Homework 0201\obj\MCD\Debug\net6.0\1.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Pictures\Documents\VisualCode\Homeworks\Homework 0201\obj\MCD\Debug\net6.0\1.dll
+C:\Users\Игорь\Pictures\Documents\VisualCode\Homeworks\Homework 0201\obj\MCD\Debug\net6.0\ref\1.dll
+C:\Users\Игорь\Pictures\Documents\VisualCode\Homeworks\Homework 0201\obj\MCD\Debug\net6.0\1.pdb
+C:\Users\Игорь\Pictures\Documents\VisualCode\Homeworks\Homework 0201\obj\MCD\Debug\net6.0\1.genruntimeconfig.cache

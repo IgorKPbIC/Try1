@@ -1,0 +1,15 @@
+C:\Users\Игорь\Pictures\Documents\VisualCode\Homeworks\Homework 0205\obj\MCD\Debug\net6.0\Homework 0205.csproj.AssemblyReference.cache
+C:\Users\Игорь\Pictures\Documents\VisualCode\Homeworks\Homework 0205\obj\MCD\Debug\net6.0\Homework 0205.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игорь\Pictures\Documents\VisualCode\Homeworks\Homework 0205\obj\MCD\Debug\net6.0\Homework 0205.AssemblyInfoInputs.cache
+C:\Users\Игорь\Pictures\Documents\VisualCode\Homeworks\Homework 0205\obj\MCD\Debug\net6.0\Homework 0205.AssemblyInfo.cs
+C:\Users\Игорь\Pictures\Documents\VisualCode\Homeworks\Homework 0205\obj\MCD\Debug\net6.0\Homework 0205.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Pictures\Documents\VisualCode\Homeworks\Homework 0205\bin\MCD\Debug\net6.0\Homework 0205.exe
+C:\Users\Игорь\Pictures\Documents\VisualCode\Homeworks\Homework 0205\bin\MCD\Debug\net6.0\Homework 0205.deps.json
+C:\Users\Игорь\Pictures\Documents\VisualCode\Homeworks\Homework 0205\bin\MCD\Debug\net6.0\Homework 0205.runtimeconfig.json
+C:\Users\Игорь\Pictures\Documents\VisualCode\Homeworks\Homework 0205\bin\MCD\Debug\net6.0\Homework 0205.dll
+C:\Users\Игорь\Pictures\Documents\VisualCode\Homeworks\Homework 0205\bin\MCD\Debug\net6.0\ref\Homework 0205.dll
+C:\Users\Игорь\Pictures\Documents\VisualCode\Homeworks\Homework 0205\bin\MCD\Debug\net6.0\Homework 0205.pdb
+C:\Users\Игорь\Pictures\Documents\VisualCode\Homeworks\Homework 0205\obj\MCD\Debug\net6.0\Homework 0205.dll
+C:\Users\Игорь\Pictures\Documents\VisualCode\Homeworks\Homework 0205\obj\MCD\Debug\net6.0\ref\Homework 0205.dll
+C:\Users\Игорь\Pictures\Documents\VisualCode\Homeworks\Homework 0205\obj\MCD\Debug\net6.0\Homework 0205.pdb
+C:\Users\Игорь\Pictures\Documents\VisualCode\Homeworks\Homework 0205\obj\MCD\Debug\net6.0\Homework 0205.genruntimeconfig.cache
